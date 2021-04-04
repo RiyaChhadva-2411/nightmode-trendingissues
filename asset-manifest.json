@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nightmode-trendingissues/static/css/main.8d0352da.chunk.css",
-    "main.js": "/nightmode-trendingissues/static/js/main.7c21f90d.chunk.js",
-    "main.js.map": "/nightmode-trendingissues/static/js/main.7c21f90d.chunk.js.map",
+    "main.css": "/nightmode-trendingissues/static/css/main.37e14d8f.chunk.css",
+    "main.js": "/nightmode-trendingissues/static/js/main.3cb09451.chunk.js",
+    "main.js.map": "/nightmode-trendingissues/static/js/main.3cb09451.chunk.js.map",
     "runtime-main.js": "/nightmode-trendingissues/static/js/runtime-main.a28b9619.js",
     "runtime-main.js.map": "/nightmode-trendingissues/static/js/runtime-main.a28b9619.js.map",
     "static/js/2.fd78e248.chunk.js": "/nightmode-trendingissues/static/js/2.fd78e248.chunk.js",
     "static/js/2.fd78e248.chunk.js.map": "/nightmode-trendingissues/static/js/2.fd78e248.chunk.js.map",
     "index.html": "/nightmode-trendingissues/index.html",
-    "static/css/main.8d0352da.chunk.css.map": "/nightmode-trendingissues/static/css/main.8d0352da.chunk.css.map",
+    "static/css/main.37e14d8f.chunk.css.map": "/nightmode-trendingissues/static/css/main.37e14d8f.chunk.css.map",
     "static/js/2.fd78e248.chunk.js.LICENSE.txt": "/nightmode-trendingissues/static/js/2.fd78e248.chunk.js.LICENSE.txt",
     "static/media/doctor1.f8a675ac.png": "/nightmode-trendingissues/static/media/doctor1.f8a675ac.png",
     "static/media/doctor2.af7d3a8c.png": "/nightmode-trendingissues/static/media/doctor2.af7d3a8c.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.a28b9619.js",
     "static/js/2.fd78e248.chunk.js",
-    "static/css/main.8d0352da.chunk.css",
-    "static/js/main.7c21f90d.chunk.js"
+    "static/css/main.37e14d8f.chunk.css",
+    "static/js/main.3cb09451.chunk.js"
   ]
 }
