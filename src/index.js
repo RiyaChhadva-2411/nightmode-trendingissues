@@ -1,17 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-
+import Headernew from './components/Headernew.js';
+import Cardsnew from './components/Cardsnew.js';
+import Issuenew from './components/Issuesnew.js';
+import Specialitynew from "./components/Specialitiesnew.js";
+import Footernew from "./components/Footernew.js";
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Headernew />
+    <Cardsnew />
+    <Issuenew />
+    <Specialitynew />
+    <Footernew />
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
