@@ -1,8 +1,11 @@
 /*Desktop view above screensize of 1200 width*/
-
+.Cardsnew__container{
+    background-color: #000000;
+    padding-bottom: 70px;
+}
 .Cardsnew__heading{
     font-weight: bold;
-    color: #000000;
+    color: #ffffff;
     font-size: 42px;
     font-style: normal;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -47,7 +50,7 @@
     font-weight: bold;
     font-size: 18px;
     line-height: 21px;
-    color: #000000;
+    color: #ffffff;
     width: 241px;
 }
 .Cardsnew__post{
@@ -58,7 +61,7 @@
     line-height: 21px;
     align-items: center;
     display: flex;
-    color: #000000;
+    color: #ffffff;
     width: 220px;
     margin-top: -10px;
 }
@@ -68,7 +71,7 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 21px;
-    color: #000000;
+    color: #ffffff;
     margin-top:-10px;
 }
 .btn{
@@ -82,14 +85,14 @@
     border-radius: 10px;
     width: 135px;
     height: 33px;
-    background-color: #ffffff;
+    background-color: #000000;
     margin-bottom: 35px;
     padding: 6px 0px 6px 0px !important;
 }
 .btn:hover{
     color:#1A936F;
     border: 2px solid #1A936F;
-    background-color: #ffffff;
+    background-color: #000000;
 }
 .Cardsnew__Leftbutton{
     position:absolute;
@@ -106,7 +109,7 @@
 @media(min-width:576px) and (max-width:800px){
     .Cardsnew__heading{
         font-weight: bold;
-        color: #000000;
+        color: #ffffff;
         font-size: 30px;
         font-style: normal;
         font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -151,7 +154,7 @@
         font-weight: bold;
         font-size: 11px;
         line-height: 14px;
-        color: #000000;
+        color: #ffffff;
         width: 158px;
     }
     .Cardsnew__post{
@@ -162,7 +165,7 @@
         line-height: 14px;
         align-items: center;
         display: flex;
-        color: #000000;
+        color: #ffffff;
         width: 150px;
         margin-top: -13px;
     }
@@ -172,7 +175,7 @@
         font-weight: normal;
         font-size: 11px;
         line-height: 14px;
-        color: #000000;
+        color: #ffffff;
         margin-top:-10px;
     }
     .btn{
@@ -211,7 +214,7 @@
 @media(min-width: 800px) and (max-width: 1200px){
     .Cardsnew__heading{
         font-weight: bold;
-        color: #000000;
+        color: #ffffff;
         font-size: 42px;
         font-style: normal;
         font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -256,7 +259,7 @@
         font-weight: bold;
         font-size: 16px;
         line-height: 19px;
-        color: #000000;
+        color: #ffffff;
         width: 230px;
     }
     .Cardsnew__post{
@@ -267,7 +270,7 @@
         line-height: 19px;
         align-items: center;
         display: flex;
-        color: #000000;
+        color: #ffffff;
         width: 220px;
         margin-top: -13px;
     }
@@ -277,7 +280,7 @@
         font-weight: normal;
         font-size: 16px;
         line-height: 19px;
-        color: #000000;
+        color: #ffffff;
         margin-top:-10px;
     }
     .btn{

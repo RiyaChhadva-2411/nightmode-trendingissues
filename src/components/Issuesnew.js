@@ -7,7 +7,7 @@ import Issue4 from "../images/issue4.png";
 
 function Issuenew(){
     return(
-        <div>
+        <div className="Issuesnew__main-container">
         <div className="Issuesnew__heading">Trending Issues<div className="fa fa-angle-right Issuesnew__svg2" /></div>
         <div className="container-fluid Issuesnew__container">
         

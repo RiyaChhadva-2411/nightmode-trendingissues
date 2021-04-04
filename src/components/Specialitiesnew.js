@@ -7,7 +7,7 @@ import image4 from "../images/doctor4.png";
 
 function Specialitynew(){
     return(
-        <div>
+        <div className="Specialitynew__main-container">
         <div className="Specialitynew__heading">Trending Specialities<div className="fa fa-angle-right Specialitynew__svg3" /></div>
         <div className="container-fluid Specialitynew__container">
          
